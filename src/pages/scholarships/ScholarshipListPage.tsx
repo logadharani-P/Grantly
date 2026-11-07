@@ -18,6 +18,7 @@ import { useAuth } from '../../contexts/AuthContext';
 import { useSavedScholarships } from '../../contexts/SavedScholarshipsContext';
 import { scholarshipService, ScholarshipFilterOptions } from '../../services/scholarships/scholarshipService';
 import { EducationLevel, ProviderType, FundingType, EligibilityStatus } from '../../types';
+import { EligibilityIntelligencePanel } from '../../components/eligibility/EligibilityIntelligencePanel';
 
 export const ScholarshipListPage: React.FC<{ defaultOnlyRecommended?: boolean }> = ({ defaultOnlyRecommended = false }) => {
   const { user } = useAuth();
@@ -294,6 +295,15 @@ export const ScholarshipListPage: React.FC<{ defaultOnlyRecommended?: boolean }>
                     <p className="sch-overview-snippet">
                       {s.overview.substring(0, 115)}...
                     </p>
+
+                    {/* Compact Eligibility Intelligence Bar */}
+                    <EligibilityIntelligencePanel
+                      scholarship={s}
+                      student={user}
+                      isSaved={saved}
+                      onToggleSave={() => toggleSave(s.id)}
+                      compact={true}
+                    />
 
                     {/* Provenance footer */}
                     <div className="sch-provenance-info">

@@ -6,15 +6,10 @@ import {
   Bookmark, 
   BookmarkCheck, 
   ArrowLeft, 
-  Calendar, 
-  Award, 
   FileCheck, 
   Check, 
-  HelpCircle, 
   AlertCircle,
   Building,
-  Globe,
-  DollarSign,
   ChevronDown,
   ChevronUp
 } from 'lucide-react';
@@ -22,6 +17,7 @@ import { scholarshipService } from '../../services/scholarships/scholarshipServi
 import { eligibilityService } from '../../services/eligibility/eligibilityService';
 import { useAuth } from '../../contexts/AuthContext';
 import { useSavedScholarships } from '../../contexts/SavedScholarshipsContext';
+import { EligibilityIntelligencePanel } from '../../components/eligibility/EligibilityIntelligencePanel';
 
 export const ScholarshipDetailsPage: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -155,7 +151,17 @@ export const ScholarshipDetailsPage: React.FC = () => {
                 </ul>
               </div>
 
-              {/* 3. Detailed Eligibility Criteria */}
+              {/* 3. WHY THIS SCHOLARSHIP MATCHES YOU – Intelligence Panel */}
+              <div className="card details-section-card eip-section-card">
+                <EligibilityIntelligencePanel
+                  scholarship={scholarship}
+                  student={user}
+                  isSaved={saved}
+                  onToggleSave={() => toggleSave(scholarship.id)}
+                />
+              </div>
+
+              {/* 4. Detailed Eligibility Criteria */}
               <div className="card details-section-card">
                 <h3>Detailed Eligibility Criteria</h3>
                 <div className="criteria-specs-grid">
