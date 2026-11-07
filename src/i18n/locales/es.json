@@ -1,0 +1,121 @@
+{
+  "brand": {
+    "name": "GRANTLY",
+    "tagline": "Tu futuro. Tus oportunidades."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "howItWorks": "Cómo funciona",
+    "scholarships": "Becas",
+    "news": "Noticias",
+    "contact": "Contacto",
+    "signIn": "Iniciar sesión",
+    "getStarted": "Comenzar",
+    "dashboard": "Panel de control",
+    "findScholarships": "Buscar becas",
+    "recommended": "Recomendadas",
+    "savedScholarships": "Guardadas",
+    "myApplications": "Mis solicitudes",
+    "aiAssistant": "Asistente IA",
+    "educationNews": "Noticias educativas",
+    "myProfile": "Mi perfil",
+    "settings": "Configuración",
+    "signOut": "Cerrar sesión"
+  },
+  "hero": {
+    "badge": "Plataforma de descubrimiento de becas verificadas",
+    "title": "Tu futuro merece todas las oportunidades.",
+    "subtitle": "Descubre becas que coinciden con tus sueños. Explora asistencia financiera, comprende tu elegibilidad y da el siguiente paso con GRANTLY.",
+    "exploreBtn": "Explorar becas",
+    "getStartedBtn": "Comenzar gratis",
+    "trustedBadge": "Conectando estudiantes a oportunidades oficiales en la India y el mundo",
+    "stat1Label": "Programas verificados",
+    "stat1Value": "500+",
+    "stat2Label": "Ayuda potencial total",
+    "stat2Value": "€135M+",
+    "stat3Label": "Precisión de elegibilidad",
+    "stat3Value": "100% Procedencia"
+  },
+  "landing": {
+    "problemTitle": "El desafío de buscar becas hoy",
+    "problemText": "Encontrar becas, comprender requisitos y reunir documentación puede resultar abrumador. Muchos estudiantes pierden oportunidades simplemente por la fragmentación de la información.",
+    "solutionTitle": "Cómo GRANTLY simplifica tu camino",
+    "solutionText": "GRANTLY reúne oportunidades verificadas con un motor de elegibilidad transparente, listas de verificación y un asistente de inteligencia artificial para guiarte.",
+    "visionTitle": "Nuestra visión",
+    "visionText": "Nuestra visión es hacer accesibles las oportunidades educativas simplificando el camino hacia la asistencia financiera para cada estudiante meritorio.",
+    "missionTitle": "Nuestra misión",
+    "missionText": "Nuestra misión es empoderar a los estudiantes mediante el descubrimiento personalizado de becas y asistencia transparente en la solicitud."
+  },
+  "footer": {
+    "desc": "GRANTLY es una plataforma de descubrimiento y asistencia en solicitudes de becas con datos verificados y orientación transparente.",
+    "quickLinks": "Enlaces rápidos",
+    "legal": "Legal y ética",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contáctanos",
+    "disclaimer": "GRANTLY es una plataforma informativa independiente. Todas las solicitudes se presentan en los portales oficiales de cada organismo."
+  },
+  "auth": {
+    "signInTitle": "Bienvenido de nuevo a GRANTLY",
+    "signInSubtitle": "Inicia sesión para acceder a tus recomendaciones y seguimiento",
+    "signUpTitle": "Crea tu cuenta de GRANTLY",
+    "signUpSubtitle": "Comienza tu viaje hacia el descubrimiento de becas",
+    "emailLabel": "Correo electrónico",
+    "passwordLabel": "Contraseña",
+    "confirmPasswordLabel": "Confirmar contraseña",
+    "fullNameLabel": "Nombre completo",
+    "rememberMe": "Recordarme durante 30 días",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "signInBtn": "Iniciar sesión",
+    "signUpBtn": "Crear cuenta y comenzar",
+    "noAccount": "¿No tienes cuenta?",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "orDemo": "Acceso rápido de demostración",
+    "demoStudent": "Usar cuenta de estudiante demo",
+    "demoNote": "La autenticación demo usa simulación local sin transmitir credenciales."
+  },
+  "profile": {
+    "badgeVerified": "Estudiante Verificado",
+    "badgeComplete": "Perfil Completo",
+    "headerSubtitle": "Administra tus credenciales académicas, criterios de elegibilidad y preferencias de becas.",
+    "saveChanges": "Guardar cambios de perfil",
+    "recalculate": "Recalcular coincidencias",
+    "savedSuccessTitle": "Perfil actualizado exitosamente",
+    "savedSuccessDesc": "Tus puntuaciones de elegibilidad y recomendaciones se han recalculado.",
+    "tabs": {
+      "academic": "Credenciales académicas",
+      "personal": "Personal y residencia",
+      "financial": "Financiera y criterios",
+      "preferences": "Metas de beca",
+      "vault": "Bóveda de documentos"
+    },
+    "stats": {
+      "academicScore": "Puntuación académica",
+      "educationStage": "Nivel educativo",
+      "incomeBracket": "Nivel de ingresos",
+      "targetCountry": "Destino de estudio"
+    },
+    "vaultTitle": "Bóveda digital de credenciales",
+    "vaultSubtitle": "Certificados organizados y listos para enviar a portales oficiales.",
+    "docReady": "Listo para envío",
+    "docPending": "Pendiente de subir",
+    "simulateUpload": "Simular carga",
+    "markVerified": "Verificado"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Reintentar",
+    "noResults": "No hay becas que coincidan con tus filtros.",
+    "clearFilters": "Borrar todos los filtros",
+    "viewAll": "Ver todo",
+    "readMore": "Leer artículo completo",
+    "lastVerified": "Última verificación",
+    "officialSource": "Fuente oficial",
+    "language": "Idioma",
+    "selectLanguage": "Seleccionar idioma"
+  }
+}
+

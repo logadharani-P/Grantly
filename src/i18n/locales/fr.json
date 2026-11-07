@@ -1,0 +1,121 @@
+{
+  "brand": {
+    "name": "GRANTLY",
+    "tagline": "Votre avenir. Vos opportunités."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "howItWorks": "Comment ça marche",
+    "scholarships": "Bourses d'études",
+    "news": "Actualités",
+    "contact": "Contact",
+    "signIn": "Connexion",
+    "getStarted": "Commencer",
+    "dashboard": "Tableau de bord",
+    "findScholarships": "Trouver des bourses",
+    "recommended": "Recommandées",
+    "savedScholarships": "Enregistrées",
+    "myApplications": "Mes candidatures",
+    "aiAssistant": "Assistant IA",
+    "educationNews": "Actualités de l'éducation",
+    "myProfile": "Mon profil",
+    "settings": "Paramètres",
+    "signOut": "Déconnexion"
+  },
+  "hero": {
+    "badge": "Plateforme de découverte de bourses vérifiées",
+    "title": "Votre avenir mérite toutes les opportunités.",
+    "subtitle": "Découvrez des bourses adaptées à vos ambitions. Explorez les aides financières, comprenez vos critères d'éligibilité et avancez avec GRANTLY.",
+    "exploreBtn": "Explorer les bourses",
+    "getStartedBtn": "Commencer gratuitement",
+    "trustedBadge": "Connecter les étudiants aux opportunités officielles en Inde et dans le monde",
+    "stat1Label": "Programmes vérifiés",
+    "stat1Value": "500+",
+    "stat2Label": "Aide potentielle totale",
+    "stat2Value": "€135M+",
+    "stat3Label": "Exactitude d'éligibilité",
+    "stat3Value": "100% Provenance"
+  },
+  "landing": {
+    "problemTitle": "Le défi de la recherche de bourses aujourd'hui",
+    "problemText": "Trouver des bourses et comprendre les critères peut être déroutant. De nombreux étudiants méritants passent à côté d'opportunités en raison de la dispersion des informations.",
+    "solutionTitle": "Comment GRANTLY simplifie votre parcours",
+    "solutionText": "GRANTLY regroupe des bourses authentiques vérifiées avec un moteur d'éligibilité transparent, des listes de contrôle et un assistant IA interactif.",
+    "visionTitle": "Notre vision",
+    "visionText": "Notre vision est de rendre les opportunités éducatives accessibles en simplifiant le parcours vers l'aide financière pour chaque étudiant méritant.",
+    "missionTitle": "Notre mission",
+    "missionText": "Notre mission est d'autonomiser les étudiants grâce à une découverte personnalisée des bourses et une assistance claire."
+  },
+  "footer": {
+    "desc": "GRANTLY est une plateforme de découverte et d'assistance aux bourses d'études basée sur des données vérifiées et une transparence totale.",
+    "quickLinks": "Liens rapides",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité",
+    "terms": "Conditions d'utilisation",
+    "faq": "Foire aux questions",
+    "contact": "Contactez-nous",
+    "disclaimer": "GRANTLY est une plateforme d'information indépendante. Toutes les candidatures sont soumises via les portails officiels respectifs."
+  },
+  "auth": {
+    "signInTitle": "Bienvenue sur GRANTLY",
+    "signInSubtitle": "Connectez-vous pour accéder à vos recommandations et candidatures",
+    "signUpTitle": "Créez votre compte GRANTLY",
+    "signUpSubtitle": "Commencez votre parcours vers la découverte des bourses",
+    "emailLabel": "Adresse e-mail",
+    "passwordLabel": "Mot de passe",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "fullNameLabel": "Nom complet",
+    "rememberMe": "Se souvenir de moi pendant 30 jours",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signInBtn": "Se connecter",
+    "signUpBtn": "Créer un compte et commencer",
+    "noAccount": "Pas encore de compte ?",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "orDemo": "Connexion démo rapide",
+    "demoStudent": "Utiliser le compte étudiant démo",
+    "demoNote": "L'authentification de démonstration utilise une simulation locale sécurisée."
+  },
+  "profile": {
+    "badgeVerified": "Étudiant vérifié",
+    "badgeComplete": "Profil complet",
+    "headerSubtitle": "Gérez vos résultats académiques, critères d'éligibilité et préférences de bourses.",
+    "saveChanges": "Enregistrer les modifications",
+    "recalculate": "Recalculer les correspondances",
+    "savedSuccessTitle": "Profil mis à jour avec succès",
+    "savedSuccessDesc": "Vos scores d'éligibilité et recommandations ont été recalculés.",
+    "tabs": {
+      "academic": "Cursus académique",
+      "personal": "Personnel & résidence",
+      "financial": "Finances & critères",
+      "preferences": "Objectifs de bourses",
+      "vault": "Coffre-fort documents"
+    },
+    "stats": {
+      "academicScore": "Score académique",
+      "educationStage": "Niveau d'études",
+      "incomeBracket": "Tranche de revenus",
+      "targetCountry": "Destination d'études"
+    },
+    "vaultTitle": "Coffre-fort numérique de documents",
+    "vaultSubtitle": "Certificats et justificatifs prêts pour la soumission sur les portails officiels.",
+    "docReady": "Prêt pour soumission",
+    "docPending": "Téléversement en attente",
+    "simulateUpload": "Simuler l'envoi",
+    "markVerified": "Vérifié"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "noResults": "Aucune bourse ne correspond à vos filtres.",
+    "clearFilters": "Effacer tous les filtres",
+    "viewAll": "Voir tout",
+    "readMore": "Lire l'article complet",
+    "lastVerified": "Dernière vérification",
+    "officialSource": "Source officielle",
+    "language": "Langue",
+    "selectLanguage": "Sélectionner la langue"
+  }
+}
+
